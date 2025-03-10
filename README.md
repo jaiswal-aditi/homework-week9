@@ -4,9 +4,9 @@
 # Arrays
 
 ### Assignment:
-- Update the two C program files following the assignment description provided in HomeworkAssignment_Week6.pdf (uploaded on Laulima)
+- Update the two C program files following the assignment description provided in HomeworkAssignment_Week9.pdf (uploaded on Laulima)
 
-**NOTE**: Github is not a place to test your code. Test it on your machines first. DO NOT exceed 15 commits. 
+**NOTE**: Github is not a place to test your code. Test it on your machines first. DO NOT exceed 10 commits. 
 
 ### Steps to submit changes:
 1. Click on desired .c to open file
