@@ -1,7 +1,7 @@
 # ICS 212
-## Homework - Week 6
+## Homework - Week 9
 
-# Arrays
+# Arrays and Pointers
 
 ### Assignment:
 - Update the two C program files following the assignment description provided in HomeworkAssignment_Week9.pdf (uploaded on Laulima)
